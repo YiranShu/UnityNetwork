@@ -1,0 +1,6 @@
+C:\Data\Unity Projects\NetworkProject\GameServer\GameServer\bin\Debug\GameServer.exe
+C:\Data\Unity Projects\NetworkProject\GameServer\GameServer\bin\Debug\GameServer.pdb
+C:\Data\Unity Projects\NetworkProject\GameServer\GameServer\obj\Debug\GameServer.csprojResolveAssemblyReference.cache
+C:\Data\Unity Projects\NetworkProject\GameServer\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
+C:\Data\Unity Projects\NetworkProject\GameServer\GameServer\obj\Debug\GameServer.exe
+C:\Data\Unity Projects\NetworkProject\GameServer\GameServer\obj\Debug\GameServer.pdb
